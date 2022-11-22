@@ -8,4 +8,5 @@
 - Computer vision
 - Image Processing
 - Computational Neuroscience
+- Healthcare AI
 - Data Science
