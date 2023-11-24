@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-### I am a Computer vision Engineer and a Data Scientist.
+### I am an AI Engineer and a Data Scientist.
 
-- I am currently working as a full-time research assistant for computer vision at [Robotics and Machine Intelligence Lab](https://romi.seecs.nust.edu.pk/) and a part-time data scientist at [OSTF](https://ostfoundation.org/). 
+- I am currently a student for a Master's in Computer Science, with a specialization in Artificial Intelligence, at [Eötvös Loránd University](https://www.elte.hu/en/).
+- My CV/portfolio can be accessed [here](https://drive.google.com/file/d/1XqgAZ2OhBPHlawN0aOUWCozNWuh5y9Hi/view?usp=sharing).
 
 ### Domains of My Interest
 - Healthcare AI
