@@ -9,5 +9,5 @@
 - Healthcare AI
 - Computer vision
 - Image Processing
-- Computational Neuroscience
 - Data Science
+- Computational Neuroscience
