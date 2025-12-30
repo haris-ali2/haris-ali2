@@ -2,14 +2,13 @@
 
 ### I am an AI Engineer and a Data Scientist.
 
-- I am currently a student for a Master's in Computer Science, with a specialization in Artificial Intelligence, at [Eötvös Loránd University](https://www.elte.hu/en/).
+- I am currently a PhD candidate in Theoretical and Scientific Data Science at [SISSA](https://www.sissa.it/).
 
 ### Domains of My Interest
 - Healthcare AI
 - Computer vision
 - Image Processing
 - Data Science
-- Computational Neuroscience
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
